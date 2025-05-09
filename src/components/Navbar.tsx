@@ -54,7 +54,7 @@ const Navbar = () => {
               href="#features"
               className="text-slate-800 dark:text-slate-200 hover:text-sky-500 dark:hover:text-sky-400 transition-colors"
             >
-              Features
+              Features of the Course
             </a>
             <a
               href="#audience"
